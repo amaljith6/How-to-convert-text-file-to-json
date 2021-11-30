@@ -1,0 +1,120 @@
+URL	ftp://194.44.98.42/UPLOAD/SOFT/delphi/AForge.NET%20Framework-2.2.3/Release/AForge.Imaging.xml
+MENTION	Bayer filter	863044	http://en.wikipedia.org/wiki/Bayer_filter
+TOKEN	bluring	905997
+TOKEN	well	863642
+TOKEN	makes	863424
+TOKEN	DarkKhaki	837410
+TOKEN	user	863302
+TOKEN	enumeration	923873
+TOKEN	elemement	849381
+TOKEN	gives	847098
+TOKEN	diffR	915725
+TOKEN	skip	846891
+
+
+URL	ftp://202.38.89.18/incoming/ASME/data/pdfs/trk-18/IMECE2011-63321.pdf
+MENTION	starter	14667	http://en.wikipedia.org/wiki/Starter_motor
+TOKEN	position	19094
+TOKEN	up	19610
+TOKEN	inherently	50290
+TOKEN	potion	87557
+TOKEN	away	80271
+TOKEN	accomplished	26223
+TOKEN	over	117210
+TOKEN	Emerging	157103
+TOKEN	depending	118387
+TOKEN	present	144887
+
+
+URL	ftp://212.154.195.122/Obshaya%20medicina/5%20kurs/Nevrol.Psyhiatr.Narkolog/angl/Lekcii/26.doc
+MENTION	physical	27168	http://en.wikipedia.org/wiki/Physical
+MENTION	psychological	27384	http://en.wikipedia.org/wiki/Psychological
+MENTION	withdrawal	27943	http://en.wikipedia.org/wiki/Withdrawal
+MENTION	stress	28809	http://en.wikipedia.org/wiki/Stress
+TOKEN	law	43750
+TOKEN	norm	33591
+TOKEN	force	33344
+TOKEN	solve	32193
+TOKEN	Bhatta	47322
+TOKEN	failure	43651
+TOKEN	allowed	38108
+TOKEN	determining	45135
+TOKEN	affairs	43916
+TOKEN	localities	32730
+
+
+URL	ftp://216.24.126.75/serversoftware/ocs/OCS_Inventory_NG-Installation_and_Administration_Guide_1.7_EN.odt
+MENTION	cryptography	201564	http://en.wikipedia.org/wiki/Cryptography
+MENTION	digital signature	201870	http://en.wikipedia.org/wiki/Digital_signature
+MENTION	public key	202011	http://en.wikipedia.org/wiki/Public_key
+MENTION	public key infrastructure	202399	http://en.wikipedia.org/wiki/Public_key_infrastructure
+MENTION	certificate authority	202581	http://en.wikipedia.org/wiki/Certificate_authority
+MENTION	web of trust	202720	http://en.wikipedia.org/wiki/Web_of_trust
+MENTION	self-signed certificate	202897	http://en.wikipedia.org/wiki/Self-signed_certificate
+TOKEN	decide	153579
+TOKEN	Analyze	160938
+TOKEN	properly	140437
+TOKEN	reselect	78017
+TOKEN	writing	60758
+TOKEN	down	128509
+TOKEN	CInternetSession	248883
+TOKEN	except	179650
+TOKEN	unsecure	76176
+TOKEN	unknown	76188
+
+
+URL	ftp://auburn.k12.ca.us/Auburn/ev-cain/Webgrades/Fonda%20Shortcuts/The%20Core%20goofs%20and%20info.doc
+MENTION	science fiction	20671	http://en.wikipedia.org/wiki/Science_fiction
+MENTION	disaster film	20920	http://en.wikipedia.org/wiki/Disaster_film
+MENTION	Core	21212	http://en.wikipedia.org/wiki/Core_(novel)
+MENTION	Paul Preuss	21451	http://en.wikipedia.org/wiki/Paul_Preuss
+MENTION	drill to the center of the Earth	21745	http://en.wikipedia.org/wiki/Travel_to_the_Earth's_center
+MENTION	nuclear explosions	22036	http://en.wikipedia.org/wiki/Nuclear_weapon
+MENTION	nuclear charges	29722	http://en.wikipedia.org/wiki/Nuclear_weapon
+MENTION	Earth's core	22325	http://en.wikipedia.org/wiki/Earth's_core
+MENTION	Jon Amiel	22593	http://en.wikipedia.org/wiki/Jon_Amiel
+MENTION	Aaron Eckhart	22849	http://en.wikipedia.org/wiki/Aaron_Eckhart
+MENTION	Delroy Lindo	23096	http://en.wikipedia.org/wiki/Delroy_Lindo
+MENTION	Tchéky Karyo	23347	http://en.wikipedia.org/wiki/Tch%C3%A9ky_Karyo
+MENTION	Hilary Swank	23594	http://en.wikipedia.org/wiki/Hilary_Swank
+MENTION	DJ Qualls	23837	http://en.wikipedia.org/wiki/DJ_Qualls
+MENTION	Bruce Greenwood	24083	http://en.wikipedia.org/wiki/Bruce_Greenwood
+MENTION	Stanley Tucci	24337	http://en.wikipedia.org/wiki/Stanley_Tucci
+MENTION	electromagnetic field	28803	http://en.wikipedia.org/wiki/Electromagnetic_field
+MENTION	core	29142	http://en.wikipedia.org/wiki/Inner_core
+MENTION	unobtainium	30234	http://en.wikipedia.org/wiki/Unobtainium
+MENTION	Mariana Trench	31447	http://en.wikipedia.org/wiki/Mariana_Trench
+MENTION	Pacific Ocean	31702	http://en.wikipedia.org/wiki/Pacific_Ocean
+MENTION	NASA	32026	http://en.wikipedia.org/wiki/NASA
+MENTION	geode	32518	http://en.wikipedia.org/wiki/Geode
+MENTION	diamond	32892	http://en.wikipedia.org/wiki/Diamond
+MENTION	Rome	34562	http://en.wikipedia.org/wiki/Rome
+MENTION	Coliseum	34812	http://en.wikipedia.org/wiki/Coliseum
+MENTION	San Francisco	35094	http://en.wikipedia.org/wiki/San_Francisco
+MENTION	Golden Gate Bridge	35356	http://en.wikipedia.org/wiki/Golden_Gate_Bridge
+TOKEN	intense	163183
+TOKEN	Found	72561
+TOKEN	Your	145215
+TOKEN	alone	158382
+TOKEN	switched	71124
+TOKEN	outright	158666
+TOKEN	alternate	83775
+TOKEN	cables	52342
+TOKEN	seemingly	72639
+TOKEN	rotating	163087
+
+
+URL	ftp://db.stanford.edu/www/pub/public_html/public_html/gio/2008/DeterminingLag27ForJUCSf.pdf
+MENTION	VTech	99163	http://en.wikipedia.org/wiki/VTech
+MENTION	Apple II	99318	http://en.wikipedia.org/wiki/Apple_II
+TOKEN	copied	97528
+TOKEN	groups	61502
+TOKEN	conveys	57289
+TOKEN	Internet	24703
+TOKEN	Standard	133151
+TOKEN	Dec	144621
+TOKEN	reserve	32355
+TOKEN	distinctive	39775
+TOKEN	Associated	92677
+TOKEN	Excessive	27245
+
